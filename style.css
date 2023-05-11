@@ -205,7 +205,7 @@ a{
     flex: 2;
     z-index: 1;
     transform: translateX(3%);
-    justify-content: space-around;
+    justify-content: space-between;
   }
   .description{
     flex: 3;
